@@ -5,9 +5,9 @@
     <vendor>yodaqa</vendor>
     <version>1.0</version>
     <imports>
-      <import name="CandidateAnswerTypes_TS"/>
-      <import name="QuestionTypes_TS"/>
-      <import name="TyCorTypes_TS"/>
+      <import name="typesystem.CandidateAnswerTypes_TS"/>
+      <import name="typesystem.QuestionTypes_TS"/>
+      <import name="typesystem.TyCorTypes_TS"/>
     </imports>
     <types>
       <typeDescription>

@@ -5,7 +5,7 @@
     <vendor>yodaqa</vendor>
     <version>1.0</version>
     <imports>
-      <import name="QuestionTypes_TS"/>
+      <import name="typesystem.QuestionTypes_TS"/>
     </imports>
     <types>
       <typeDescription>
